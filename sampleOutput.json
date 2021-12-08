@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Craig Taylor",
+            "title": "Wanderers to host New Year's Test as CSA confirm updated India tour schedule",
+            "description": "Cricket South Africa confirmed the updated schedule for India's 2021/2022 tour of South Africa with the Wanderers hosting the New Year's Test.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/wanderers-to-host-new-years-test-as-csa-confirm-updated-india-tour-schedule-20211206",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11264/bb5407e372134ed9a9072c91acbb936f.jpg",
+            "publishedAt": "2021-12-06T16:35:08+00:00",
+            "content": "Cricket South Africa (CSA) on Monday confirmed the updated schedule for India's 2021/2022 tour of South Africa. \r\nLast week, it was announced that the four T20Is would not take place this season but … [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Khanyiso Tshwaku",
+            "title": "Cricket SA's SJN project given final deadline for report submission",
+            "description": "Cricket South Africa's board has granted the Cricket for Social Justice and Nation-building project a final extension until 10 December for the submission of their highly awaited report.",
+            "url": "https://www.news24.com/sport/Cricket/cricket-sas-sjn-project-given-final-deadline-for-report-submission-20211206",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/849/78cfd135e31e4cb0be1cb4c581610b7c.jpg",
+            "publishedAt": "2021-12-06T14:30:55+00:00",
+            "content": "<ul><li>Cricket South Africa's board has granted the Cricket for Social Justice and Nation-building project a final extension to submit its report.</li><li>The initial deadline was 30 November, from … [+1286 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jeff Tracy",
+            "title": "Rare cricket feat: New Zealand's Ajaz Patel takes 10 wickets vs. India",
+            "description": "Patel is just the third bowler in Test cricket's 150-year history to accomplish this feat.",
+            "url": "https://www.axios.com/cricket-new-zealand-ajaz-patel-wicket-india-42175c88-5d88-4ba3-ba01-2ae2a0e0a8d8.html",
+            "urlToImage": "https://images.axios.com/KfASFUhadps_udycSiWUDVmrpm0=/0x0:4264x2399/1366x768/2021/12/06/1638796440120.jpg",
+            "publishedAt": "2021-12-06T13:32:46Z",
+            "content": "Ajaz Patel, a bowler for New Zealand's cricket team, took all 10 wickets in an innings this weekend against India in Mumbai.\r\nWhy it matters: Patel is just the third bowler in Test cricket's 150-year… [+892 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Gough named Yorkshire cricket director",
+            "description": "Former England fast bowler Darren Gough is appointed as Yorkshire's interim director of cricket until the end of the 2022 season.",
+            "url": "http://www.bbc.co.uk/sport/cricket/59545490",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+            "publishedAt": "2021-12-06T09:52:31.7961789Z",
+            "content": "Former England fast bowler Darren Gough has been appointed as Yorkshire's interim director of cricket until the end of the 2022 season.\r\nA report found former player Azeem Rafiq was a victim of \"raci… [+170 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
